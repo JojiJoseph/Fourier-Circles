@@ -10,7 +10,7 @@ Click the thumbnail to play video.
 
 ## How to run
 
-```python
+```bash
 python main.py
 ```
 Then draw a closed curve. The animation will be opened in a new window.
@@ -19,6 +19,6 @@ By default number of Fourier Circles is the number of points in the input curve.
 
 To set number of points to a specific value (say 100),
 
-```python
+```bash
 python main.py -N 100
 ```
